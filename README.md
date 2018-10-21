@@ -2,7 +2,6 @@
 
 ### Option One: Basic Quiz (Timed Form)
 
-![Basic](Images/1-basic.jpg)
 
 **[Click Here to Watch the Demo](https://youtu.be/fBIj8YsA9dk)**.
 
